@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.7.6)
+    mini_magick (4.10.1)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  dotenv
+  mini_magick
+
+BUNDLED WITH
+   2.2.11
