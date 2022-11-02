@@ -1,6 +1,7 @@
 require 'net/http'
 require 'uri'
 require 'json'
+require 'dotenv/load'
 
 token = ENV['ACCESS_TOKEN']
 uri = URI.parse('https://suzuri.jp/api/v1/materials')
